@@ -100,10 +100,10 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["Dnes hrajete skvěle <3"],
+      intervalMessages: [":)"],
       messageInterval: 20,
       songstats: false,
-      commandLiteral: "!",
+      commandLiteral: "<",
       blacklists: {
         NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
         OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
